@@ -1,6 +1,6 @@
 <!-- TITLE -->
-<h1>👋 Charile Park</h1>
-<b>Frontend Developer · Next.js · TypeScript</b>
+<h1 align="center">👋 Charile Park</h1>
+<p align="center"><b>Frontend Developer · Next.js · TypeScript</b></p>
 
 <pre align="center">
  ________  ___  ___  ________  ________  ___  ___       _______      
@@ -12,7 +12,9 @@
       \|_______|\|__|\|__|\|__|\|__|\|__|\|__|\|__|\|_______|\|_______|
 </pre>
 
-<img src="https://user-images.githubusercontent.com/89507327/147879716-9aeec036-0cbf-46a2-a5f2-363ed8dfc1ed.gif" width="180px" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/89507327/147879716-9aeec036-0cbf-46a2-a5f2-363ed8dfc1ed.gif" width="180px" />
+</p>
 
 ---
 
@@ -38,7 +40,6 @@ I enjoy creating products that are **scalable, performant, and developer-friendl
 **Core Tools:** TanStack Query v5 · Recoil · styled-components · Docker · Sentry  
 **Recent Focus:** SSR error tracking · Cloud logging · performance optimization  
 
----
 
 ### 📊 Github Stats  
 <img height="160px" src="https://github-readme-stats.vercel.app/api?username=charile1&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent" />
@@ -46,10 +47,4 @@ I enjoy creating products that are **scalable, performant, and developer-friendl
 
 ---
 
-### 🌍 Connect with Me  
-<a href="https://github.com/charile1" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://instagram.com/charile1" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+
