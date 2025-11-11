@@ -1,12 +1,9 @@
-<!-- Header -->
+<!-- TITLE -->
+<h1 align="center">Charile Park 👋</h1>
+<p align="center"><b>Frontend Developer · Next.js · TypeScript</b></p>
+
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Charile%20Park%20👋&fontSize=60&fontAlignY=40&fontAlign=70&desc=Frontend%20Developer%20|%20Next.js%20|%20TypeScript&descAlignY=55&descAlign=70"
-    alt="header"
-  />
-</div>
-<div align="center">
-  
+
 <pre>
  ________  ___  ___  ________  ________  ___  ___       _______      
 |\   ____\|\  \|\  \|\   __  \|\   __  \|\  \|\  \     |\  ___ \     
@@ -22,20 +19,32 @@
 ---
 
 ### 🌈 About Me  
-✨ I’m a **fast learner** who loves to keep learning and take on new challenges.  
+Hi, I'm **Charile**, a frontend developer who loves turning ideas into smooth, intuitive web experiences.  
+I build **scalable, data-driven, and maintainable** applications using **Next.js 14**, **React (TypeScript)**, and modern frontend tooling.
+
+🧩 My work revolves around  
+- Designing **clear UX flows** that reduce friction and increase conversions  
+- Structuring robust systems with **TanStack Query**, **Recoil**, and **API integration patterns**  
+- Implementing **observability and monitoring** using Sentry & CloudWatch  
+- Collaborating with designers, PMs, and marketers to connect **UX with business growth**
+
+✨ I’m passionate about continuous learning, automation, and exploring **AI-powered developer workflows**.  
 🧠 MBTI: **ENFP**  
-🎯 Interests: 🐶 🏄‍♀️ 🧘‍♀️ 🎶 ✈️ 🎨 🎬 🎤  
+🎯 Interests: 🐶 🏄‍♀️ 🎶 ✈️ 🎨 🎬 ☕️  
 
 ---
 
 ### ⚡ Tech Stack  
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,figma,aws,git&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,aws,figma,git,vercel&theme=light" />
+
+**Core Tools:** TanStack Query v5 · Recoil · styled-components · Docker · Sentry  
+**Recent Focus:** SSR error tracking · Cloud logging · performance optimization  
 
 ---
 
 ### 📊 Github Stats  
 <div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=charile1&show_icons=true&count_private=true&hide_border=true&theme=transparent" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=charile1&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent" />
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charile1&layout=compact&hide_border=true&theme=transparent" />
 </div>
 
@@ -49,6 +58,4 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
----
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+</div>
