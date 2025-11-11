@@ -1,10 +1,5 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Charile%20github&fontSize=90) -->
-
-<!-- <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>   -->
-
-<!-- ![profile](https://user-images.githubusercontent.com/89507327/147879718-94ba3b22-699b-470e-ad6c-8482c70fdd32.png)-->
+<!-- Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Charile%20Park%20👋&fontSize=60&fontAlignY=40&fontAlign=70&desc=Frontend%20Developer%20|%20Next.js%20|%20TypeScript&descAlignY=55&descAlign=70)
 
 <div align="center">
   
@@ -15,59 +10,41 @@
  \ \  \    \ \   __  \ \   __  \ \   _  _\ \  \ \  \    \ \   ___ \  
   \ \  \____\ \  \ \  \ \  \ \  \ \  \\  \\ \  \ \  \____\ \  \____  
    \ \_______\ \__\ \__\ \__\ \__\ \__\\ _\\ \__\ \_______\ \_______\
-      \|_______|\|__|\|__|\|__|\|__|\|__|\|__|\|__|\|_______|\|_______|   
-
-
-_______  ___  _________  ___  ___  ___  ___  ________     
-|\   ____\|\  \|\___   ___\\  \|\  \|\  \|\  \|\   __  \    
-\ \  \___|\ \  \|___ \  \_\ \  \\\  \ \  \\\  \ \  \|\ /_   
- \ \  \  __\ \  \   \ \  \ \ \   __  \ \  \\\  \ \   __  \  
-  \ \  \|\  \ \  \   \ \  \ \ \  \ \  \ \  \\\  \ \  \|\  \ 
-   \ \_______\ \__\   \ \__\ \ \__\ \__\ \_______\ \_______\
-                          
+      \|_______|\|__|\|__|\|__|\|__|\|__|\|__|\|__|\|_______|\|_______|
 </pre>
- 
-  
-<img src="https://user-images.githubusercontent.com/89507327/147879716-9aeec036-0cbf-46a2-a5f2-363ed8dfc1ed.gif" width="250px"/>
 
+<img src="https://user-images.githubusercontent.com/89507327/147879716-9aeec036-0cbf-46a2-a5f2-363ed8dfc1ed.gif" width="220px" />
 
-  
-###  I’m a fast learner, prefer to keep learning and continue challenging myself.  🙏
-**My MBTI is ENFP** 🌈 ⭐️ 
-  
-**I like** 🐶🏄‍♀️🧘‍♀️🎶✈️🎨🎬🎤
+---
+
+### 🌈 About Me  
+✨ I’m a **fast learner** who loves to keep learning and take on new challenges.  
+🧠 MBTI: **ENFP**  
+🎯 Interests: 🐶 🏄‍♀️ 🧘‍♀️ 🎶 ✈️ 🎨 🎬 🎤  
+
+---
+
+### ⚡ Tech Stack  
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,figma,aws,git&theme=light" />
+
+---
+
+### 📊 Github Stats  
+<div align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=charile1&show_icons=true&count_private=true&hide_border=true&theme=transparent" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charile1&layout=compact&hide_border=true&theme=transparent" />
 </div>
 
-<div align="center">
-    <h1>My skills set</h1>
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-    <a href="https://github.com/charile1">
-      <div align="center">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charile1&hide_border=true&layout=compact" />  
-      </div>
-    </a>
-</div>
+---
 
-<div align="center">
-<h1>Github Stats</h1>
-<img src="https://github-readme-stats.vercel.app/api?username=charile1&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>  
- 
-
-
-
-<div align="center">
-<h1>Connect with me</h1>
+### 🌍 Connect with Me  
 <a href="https://github.com/charile1" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://instagram.com/charile1" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
