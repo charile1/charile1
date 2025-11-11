@@ -1,10 +1,8 @@
 <!-- TITLE -->
-<h1 align="center">Charile Park 👋</h1>
-<p align="center"><b>Frontend Developer · Next.js · TypeScript</b></p>
+<h1>👋 Charile Park</h1>
+<b>Frontend Developer · Next.js · TypeScript</b>
 
-<div align="center">
-
-<pre>
+<pre align="center">
  ________  ___  ___  ________  ________  ___  ___       _______      
 |\   ____\|\  \|\  \|\   __  \|\   __  \|\  \|\  \     |\  ___ \     
 \ \  \___|\ \  \\\  \ \  \|\  \ \  \|\  \ \  \ \  \    \ \  \ __  
@@ -14,22 +12,22 @@
       \|_______|\|__|\|__|\|__|\|__|\|__|\|__|\|__|\|_______|\|_______|
 </pre>
 
-<img src="https://user-images.githubusercontent.com/89507327/147879716-9aeec036-0cbf-46a2-a5f2-363ed8dfc1ed.gif" width="220px" />
+<img src="https://user-images.githubusercontent.com/89507327/147879716-9aeec036-0cbf-46a2-a5f2-363ed8dfc1ed.gif" width="180px" />
 
 ---
 
 ### 🌈 About Me  
-Hi, I'm **Charile**, a frontend developer who loves turning ideas into smooth, intuitive web experiences.  
-I build **scalable, data-driven, and maintainable** applications using **Next.js 14**, **React (TypeScript)**, and modern frontend tooling.
+Hi, I'm **Charile**, a frontend developer who loves building intuitive and data-driven web experiences.  
+I enjoy creating products that are **scalable, performant, and developer-friendly**, powered by **Next.js 14**, **React**, and **TypeScript**.
 
-🧩 My work revolves around  
-- Designing **clear UX flows** that reduce friction and increase conversions  
-- Structuring robust systems with **TanStack Query**, **Recoil**, and **API integration patterns**  
-- Implementing **observability and monitoring** using Sentry & CloudWatch  
-- Collaborating with designers, PMs, and marketers to connect **UX with business growth**
+🧩 I focus on  
+- Designing **clear UX flows** that reduce friction and improve engagement  
+- Structuring maintainable systems using **TanStack Query**, **Recoil**, and **API integration**  
+- Monitoring app health with **Sentry** and **AWS CloudWatch**  
+- Bridging design and engineering through shared systems and clean code  
 
-✨ I’m passionate about continuous learning, automation, and exploring **AI-powered developer workflows**.  
-🧠 MBTI: **ENFP**  
+✨ I’m passionate about learning, automation, and **AI-assisted development workflows**.  
+🧠 MBTI: ENFP  
 🎯 Interests: 🐶 🏄‍♀️ 🎶 ✈️ 🎨 🎬 ☕️  
 
 ---
@@ -43,10 +41,8 @@ I build **scalable, data-driven, and maintainable** applications using **Next.js
 ---
 
 ### 📊 Github Stats  
-<div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=charile1&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charile1&layout=compact&hide_border=true&theme=transparent" />
-</div>
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=charile1&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent" />
+<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charile1&layout=compact&hide_border=true&theme=transparent" />
 
 ---
 
@@ -57,5 +53,3 @@ I build **scalable, data-driven, and maintainable** applications using **Next.js
 <a href="https://instagram.com/charile1" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
-</div>
