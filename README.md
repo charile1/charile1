@@ -1,6 +1,10 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Charile%20Park%20👋&fontSize=60&fontAlignY=40&fontAlign=70&desc=Frontend%20Developer%20|%20Next.js%20|%20TypeScript&descAlignY=55&descAlign=70)
-
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Charile%20Park%20👋&fontSize=60&fontAlignY=40&fontAlign=70&desc=Frontend%20Developer%20|%20Next.js%20|%20TypeScript&descAlignY=55&descAlign=70"
+    alt="header"
+  />
+</div>
 <div align="center">
   
 <pre>
